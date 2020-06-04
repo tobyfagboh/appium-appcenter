@@ -648,3 +648,281 @@
 2020-05-31 09:33:23,841 - devpinoyLogger -INFO - click on a provider
 2020-05-31 09:33:25,363 - devpinoyLogger -INFO - connect to a provider
 2020-05-31 09:33:27,457 - devpinoyLogger -INFO -  confirmation to connect to a provider
+2020-05-31 14:54:17,568 - devpinoyLogger -INFO - App opened
+2020-05-31 14:56:27,862 - devpinoyLogger -INFO - App opened
+2020-05-31 14:58:29,187 - devpinoyLogger -INFO - App opened
+2020-05-31 14:58:34,719 - devpinoyLogger -INFO - App opened
+2020-05-31 15:00:00,164 - devpinoyLogger -INFO - App opened
+2020-05-31 15:02:02,610 - devpinoyLogger -INFO - App opened
+2020-05-31 15:04:03,103 - devpinoyLogger -INFO - App opened
+2020-05-31 15:04:14,654 - devpinoyLogger -INFO - I already have an account clicked
+2020-05-31 15:04:19,138 - devpinoyLogger -INFO - user email passed into text box
+2020-05-31 15:04:24,503 - devpinoyLogger -INFO - user password passed into text box
+2020-05-31 15:04:28,276 - devpinoyLogger -INFO - log in button clicked
+2020-05-31 15:08:26,120 - devpinoyLogger -INFO - App opened
+2020-05-31 15:08:44,189 - devpinoyLogger -INFO - I already have an account clicked
+2020-05-31 15:08:48,653 - devpinoyLogger -INFO - user email passed into text box
+2020-05-31 15:08:54,094 - devpinoyLogger -INFO - user password passed into text box
+2020-05-31 15:08:57,699 - devpinoyLogger -INFO - log in button clicked
+2020-05-31 15:09:05,614 - devpinoyLogger -INFO - skipped icon clicked
+2020-05-31 15:12:27,854 - devpinoyLogger -INFO - App opened
+2020-05-31 15:12:37,533 - devpinoyLogger -INFO - I already have an account clicked
+2020-05-31 15:12:42,487 - devpinoyLogger -INFO - user email passed into text box
+2020-05-31 15:12:47,973 - devpinoyLogger -INFO - user password passed into text box
+2020-05-31 15:12:51,654 - devpinoyLogger -INFO - log in button clicked
+2020-05-31 15:13:08,292 - devpinoyLogger -INFO - skipped icon clicked
+2020-05-31 15:21:49,320 - devpinoyLogger -INFO - App opened
+2020-05-31 15:22:02,131 - devpinoyLogger -INFO - I already have an account clicked
+2020-05-31 15:22:08,319 - devpinoyLogger -INFO - user email passed into text box
+2020-05-31 15:22:11,740 - devpinoyLogger -INFO - user password passed into text box
+2020-05-31 15:22:14,872 - devpinoyLogger -INFO - log in button clicked
+2020-05-31 15:22:42,587 - devpinoyLogger -INFO - skipped icon clicked
+2020-05-31 15:22:44,070 - devpinoyLogger -INFO - Menu icon clicked
+2020-05-31 15:22:46,628 - devpinoyLogger -INFO - settings icon clicked
+2020-05-31 15:26:32,128 - devpinoyLogger -INFO - App opened
+2020-05-31 15:26:43,365 - devpinoyLogger -INFO - I already have an account clicked
+2020-05-31 15:26:47,788 - devpinoyLogger -INFO - user email passed into text box
+2020-05-31 15:26:52,941 - devpinoyLogger -INFO - user password passed into text box
+2020-05-31 15:26:56,822 - devpinoyLogger -INFO - log in button clicked
+2020-05-31 15:27:25,217 - devpinoyLogger -INFO - skipped icon clicked
+2020-05-31 15:27:26,741 - devpinoyLogger -INFO - Menu icon clicked
+2020-05-31 15:27:29,531 - devpinoyLogger -INFO - settings icon clicked
+2020-05-31 15:27:33,076 - devpinoyLogger -INFO - Preferences clickble
+2020-05-31 15:44:05,828 - devpinoyLogger -INFO - App opened
+2020-05-31 15:44:19,506 - devpinoyLogger -INFO - I already have an account clicked
+2020-05-31 15:44:23,420 - devpinoyLogger -INFO - user email passed into text box
+2020-05-31 15:44:29,318 - devpinoyLogger -INFO - user password passed into text box
+2020-05-31 15:44:33,100 - devpinoyLogger -INFO - log in button clicked
+2020-05-31 15:44:51,591 - devpinoyLogger -INFO - skipped icon clicked
+2020-05-31 15:44:53,078 - devpinoyLogger -INFO - Menu icon clicked
+2020-05-31 15:44:55,407 - devpinoyLogger -INFO - settings icon clicked
+2020-05-31 15:44:58,683 - devpinoyLogger -INFO - Preferences clickble
+2020-05-31 16:07:15,914 - devpinoyLogger -INFO - App opened
+2020-05-31 16:07:27,347 - devpinoyLogger -INFO - I already have an account clicked
+2020-05-31 16:07:34,404 - devpinoyLogger -INFO - user email passed into text box
+2020-05-31 16:07:38,291 - devpinoyLogger -INFO - user password passed into text box
+2020-05-31 16:07:41,308 - devpinoyLogger -INFO - log in button clicked
+2020-05-31 16:07:58,485 - devpinoyLogger -INFO - skipped icon clicked
+2020-05-31 16:07:59,919 - devpinoyLogger -INFO - Menu icon clicked
+2020-05-31 16:08:02,696 - devpinoyLogger -INFO - settings icon clicked
+2020-05-31 16:08:05,966 - devpinoyLogger -INFO - Preferences clickble
+2020-05-31 16:10:48,965 - devpinoyLogger -INFO - App opened
+2020-05-31 16:11:04,012 - devpinoyLogger -INFO - I already have an account clicked
+2020-05-31 16:11:08,694 - devpinoyLogger -INFO - user email passed into text box
+2020-05-31 16:11:14,329 - devpinoyLogger -INFO - user password passed into text box
+2020-05-31 16:11:17,598 - devpinoyLogger -INFO - log in button clicked
+2020-05-31 16:12:29,304 - devpinoyLogger -INFO - App opened
+2020-05-31 16:12:42,657 - devpinoyLogger -INFO - I already have an account clicked
+2020-05-31 16:12:47,319 - devpinoyLogger -INFO - user email passed into text box
+2020-05-31 16:12:52,716 - devpinoyLogger -INFO - user password passed into text box
+2020-05-31 16:12:56,313 - devpinoyLogger -INFO - log in button clicked
+2020-05-31 16:13:13,859 - devpinoyLogger -INFO - skipped icon clicked
+2020-05-31 16:13:15,404 - devpinoyLogger -INFO - Menu icon clicked
+2020-05-31 16:13:17,765 - devpinoyLogger -INFO - settings icon clicked
+2020-05-31 16:13:20,886 - devpinoyLogger -INFO - Preferences clickble
+2020-05-31 16:19:15,725 - devpinoyLogger -INFO - App opened
+2020-05-31 16:19:30,541 - devpinoyLogger -INFO - I already have an account clicked
+2020-05-31 16:19:34,742 - devpinoyLogger -INFO - user email passed into text box
+2020-05-31 16:19:40,626 - devpinoyLogger -INFO - user password passed into text box
+2020-05-31 16:19:44,102 - devpinoyLogger -INFO - log in button clicked
+2020-05-31 16:21:08,340 - devpinoyLogger -INFO - App opened
+2020-05-31 16:21:22,542 - devpinoyLogger -INFO - I already have an account clicked
+2020-05-31 16:21:27,252 - devpinoyLogger -INFO - user email passed into text box
+2020-05-31 16:21:32,716 - devpinoyLogger -INFO - user password passed into text box
+2020-05-31 16:21:36,372 - devpinoyLogger -INFO - log in button clicked
+2020-05-31 16:22:03,633 - devpinoyLogger -INFO - skipped icon clicked
+2020-05-31 16:22:05,221 - devpinoyLogger -INFO - Menu icon clicked
+2020-05-31 16:22:07,682 - devpinoyLogger -INFO - settings icon clicked
+2020-05-31 16:22:10,822 - devpinoyLogger -INFO - Preferences clickble
+2020-05-31 16:22:11,767 - devpinoyLogger -INFO - prefences sucessfull
+2020-05-31 16:35:43,633 - devpinoyLogger -INFO - App opened
+2020-05-31 16:35:58,827 - devpinoyLogger -INFO - I already have an account clicked
+2020-05-31 16:36:02,990 - devpinoyLogger -INFO - user email passed into text box
+2020-05-31 16:36:08,913 - devpinoyLogger -INFO - user password passed into text box
+2020-05-31 16:36:12,475 - devpinoyLogger -INFO - log in button clicked
+2020-05-31 16:36:39,583 - devpinoyLogger -INFO - skipped icon clicked
+2020-05-31 16:36:41,016 - devpinoyLogger -INFO - Menu icon clicked
+2020-05-31 16:36:43,237 - devpinoyLogger -INFO - settings icon clicked
+2020-05-31 16:36:46,105 - devpinoyLogger -INFO - Preferences clickble
+2020-05-31 16:36:47,865 - devpinoyLogger -INFO - Preferences sucessfull
+2020-05-31 16:36:48,369 - devpinoyLogger -INFO - Notification settings icon clicked
+2020-05-31 16:36:49,242 - devpinoyLogger -INFO - Notification settings sucessfull
+2020-05-31 16:53:23,199 - devpinoyLogger -INFO - App opened
+2020-05-31 16:53:37,170 - devpinoyLogger -INFO - I already have an account clicked
+2020-05-31 16:53:41,892 - devpinoyLogger -INFO - user email passed into text box
+2020-05-31 16:53:47,384 - devpinoyLogger -INFO - user password passed into text box
+2020-05-31 16:53:50,864 - devpinoyLogger -INFO - log in button clicked
+2020-05-31 16:54:17,673 - devpinoyLogger -INFO - skipped icon clicked
+2020-05-31 16:54:19,708 - devpinoyLogger -INFO - Menu icon clicked
+2020-05-31 16:54:22,521 - devpinoyLogger -INFO - settings icon clicked
+2020-05-31 16:54:25,575 - devpinoyLogger -INFO - Preferences clickble
+2020-05-31 16:54:26,546 - devpinoyLogger -INFO - Preferences sucessfull
+2020-05-31 16:54:27,232 - devpinoyLogger -INFO - Notification settings icon clicked
+2020-05-31 16:54:28,207 - devpinoyLogger -INFO - Notification settings sucessfull
+2020-05-31 17:01:12,583 - devpinoyLogger -INFO - App opened
+2020-05-31 17:01:24,837 - devpinoyLogger -INFO - I already have an account clicked
+2020-05-31 17:01:29,689 - devpinoyLogger -INFO - user email passed into text box
+2020-05-31 17:01:32,548 - devpinoyLogger -INFO - user password passed into text box
+2020-05-31 17:01:35,633 - devpinoyLogger -INFO - log in button clicked
+2020-05-31 23:12:51,255 - devpinoyLogger -INFO - App opened
+2020-05-31 23:13:04,856 - devpinoyLogger -INFO - I already have an account clicked
+2020-05-31 23:13:09,519 - devpinoyLogger -INFO - user email passed into text box
+2020-05-31 23:13:15,221 - devpinoyLogger -INFO - user password passed into text box
+2020-05-31 23:13:18,503 - devpinoyLogger -INFO - log in button clicked
+2020-05-31 23:13:44,489 - devpinoyLogger -INFO - skipped icon clicked
+2020-05-31 23:13:45,959 - devpinoyLogger -INFO - Menu icon clicked
+2020-05-31 23:13:48,129 - devpinoyLogger -INFO - settings icon clicked
+2020-05-31 23:13:51,003 - devpinoyLogger -INFO - Preferences clickble
+2020-05-31 23:13:52,149 - devpinoyLogger -INFO - Preferences sucessfull
+2020-05-31 23:13:52,749 - devpinoyLogger -INFO - Notification settings icon clicked
+2020-05-31 23:13:53,624 - devpinoyLogger -INFO - Notification settings sucessfull
+2020-05-31 23:16:51,218 - devpinoyLogger -INFO - App opened
+2020-05-31 23:17:04,737 - devpinoyLogger -INFO - I already have an account clicked
+2020-05-31 23:17:09,309 - devpinoyLogger -INFO - user email passed into text box
+2020-05-31 23:17:12,254 - devpinoyLogger -INFO - user password passed into text box
+2020-05-31 23:17:15,291 - devpinoyLogger -INFO - log in button clicked
+2020-05-31 23:17:35,908 - devpinoyLogger -INFO - skipped icon clicked
+2020-05-31 23:17:37,517 - devpinoyLogger -INFO - Menu icon clicked
+2020-05-31 23:17:39,790 - devpinoyLogger -INFO - settings icon clicked
+2020-05-31 23:17:42,842 - devpinoyLogger -INFO - Preferences clickble
+2020-05-31 23:17:43,784 - devpinoyLogger -INFO - Preferences sucessfull
+2020-05-31 23:17:44,524 - devpinoyLogger -INFO - Notification settings icon clicked
+2020-05-31 23:17:45,472 - devpinoyLogger -INFO - Notification settings sucessfull
+2020-05-31 23:26:04,196 - devpinoyLogger -INFO - App opened
+2020-05-31 23:26:17,440 - devpinoyLogger -INFO - I already have an account clicked
+2020-05-31 23:26:24,575 - devpinoyLogger -INFO - user email passed into text box
+2020-05-31 23:26:28,084 - devpinoyLogger -INFO - user password passed into text box
+2020-05-31 23:26:33,395 - devpinoyLogger -INFO - log in button clicked
+2020-05-31 23:26:52,986 - devpinoyLogger -INFO - skipped icon clicked
+2020-05-31 23:26:54,686 - devpinoyLogger -INFO - Menu icon clicked
+2020-05-31 23:26:57,093 - devpinoyLogger -INFO - settings icon clicked
+2020-05-31 23:27:00,207 - devpinoyLogger -INFO - Preferences clickble
+2020-05-31 23:27:01,431 - devpinoyLogger -INFO - Preferences sucessfull
+2020-05-31 23:27:02,262 - devpinoyLogger -INFO - Notification settings icon clicked
+2020-05-31 23:27:03,305 - devpinoyLogger -INFO - Notification settings sucessfull
+2020-05-31 23:28:18,797 - devpinoyLogger -INFO - App opened
+2020-05-31 23:28:35,396 - devpinoyLogger -INFO - I already have an account clicked
+2020-05-31 23:28:40,049 - devpinoyLogger -INFO - user email passed into text box
+2020-05-31 23:28:45,483 - devpinoyLogger -INFO - user password passed into text box
+2020-05-31 23:28:49,266 - devpinoyLogger -INFO - log in button clicked
+2020-05-31 23:28:59,117 - devpinoyLogger -INFO - skipped icon clicked
+2020-05-31 23:29:01,185 - devpinoyLogger -INFO - Menu icon clicked
+2020-05-31 23:29:03,641 - devpinoyLogger -INFO - settings icon clicked
+2020-05-31 23:29:06,568 - devpinoyLogger -INFO - Preferences clickble
+2020-05-31 23:29:12,260 - devpinoyLogger -INFO - Preferences sucessfull
+2020-05-31 23:29:13,094 - devpinoyLogger -INFO - Notification settings icon clicked
+2020-05-31 23:29:14,171 - devpinoyLogger -INFO - Notification settings sucessfull
+2020-05-31 23:37:06,380 - devpinoyLogger -INFO - App opened
+2020-05-31 23:38:33,415 - devpinoyLogger -INFO - App opened
+2020-05-31 23:38:44,596 - devpinoyLogger -INFO - I already have an account clicked
+2020-05-31 23:38:48,832 - devpinoyLogger -INFO - user email passed into text box
+2020-05-31 23:38:54,669 - devpinoyLogger -INFO - user password passed into text box
+2020-05-31 23:38:58,070 - devpinoyLogger -INFO - log in button clicked
+2020-05-31 23:39:15,558 - devpinoyLogger -INFO - skipped icon clicked
+2020-05-31 23:39:17,010 - devpinoyLogger -INFO - Menu icon clicked
+2020-05-31 23:39:19,313 - devpinoyLogger -INFO - settings icon clicked
+2020-05-31 23:39:22,183 - devpinoyLogger -INFO - Preferences clickble
+2020-05-31 23:39:23,998 - devpinoyLogger -INFO - Preferences sucessfull
+2020-05-31 23:39:24,539 - devpinoyLogger -INFO - Notification settings icon clicked
+2020-05-31 23:39:25,423 - devpinoyLogger -INFO - Notification settings sucessfull
+2020-06-01 00:24:46,076 - devpinoyLogger -INFO - App opened
+2020-06-01 00:24:58,621 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-01 00:25:03,117 - devpinoyLogger -INFO - user email passed into text box
+2020-06-01 00:25:08,487 - devpinoyLogger -INFO - user password passed into text box
+2020-06-01 00:25:12,003 - devpinoyLogger -INFO - log in button clicked
+2020-06-01 00:25:20,720 - devpinoyLogger -INFO - skipped icon clicked
+2020-06-01 00:25:22,298 - devpinoyLogger -INFO - Menu icon clicked
+2020-06-01 00:25:24,707 - devpinoyLogger -INFO - settings icon clicked
+2020-06-01 00:25:27,466 - devpinoyLogger -INFO - Preferences clickble
+2020-06-01 00:25:32,994 - devpinoyLogger -INFO - Preferences sucessfull
+2020-06-01 00:25:34,159 - devpinoyLogger -INFO - Notification settings icon clicked
+2020-06-01 00:25:35,107 - devpinoyLogger -INFO - Notification settings sucessfull
+2020-06-01 00:28:41,898 - devpinoyLogger -INFO - App opened
+2020-06-01 00:28:54,051 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-01 00:28:58,797 - devpinoyLogger -INFO - user email passed into text box
+2020-06-01 00:29:04,328 - devpinoyLogger -INFO - user password passed into text box
+2020-06-01 00:29:07,733 - devpinoyLogger -INFO - log in button clicked
+2020-06-01 00:29:24,727 - devpinoyLogger -INFO - skipped icon clicked
+2020-06-01 00:29:26,231 - devpinoyLogger -INFO - Menu icon clicked
+2020-06-01 00:29:28,571 - devpinoyLogger -INFO - settings icon clicked
+2020-06-01 00:29:31,625 - devpinoyLogger -INFO - Preferences clickble
+2020-06-01 00:29:32,592 - devpinoyLogger -INFO - Preferences sucessfull
+2020-06-01 00:29:33,363 - devpinoyLogger -INFO - Notification settings icon clicked
+2020-06-01 00:29:34,335 - devpinoyLogger -INFO - Notification settings sucessfull
+2020-06-01 00:33:08,966 - devpinoyLogger -INFO - App opened
+2020-06-01 00:33:21,821 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-01 00:33:26,537 - devpinoyLogger -INFO - user email passed into text box
+2020-06-01 00:33:32,231 - devpinoyLogger -INFO - user password passed into text box
+2020-06-01 00:33:35,550 - devpinoyLogger -INFO - log in button clicked
+2020-06-01 00:33:52,870 - devpinoyLogger -INFO - skipped icon clicked
+2020-06-01 00:33:54,453 - devpinoyLogger -INFO - Menu icon clicked
+2020-06-01 00:33:56,839 - devpinoyLogger -INFO - settings icon clicked
+2020-06-01 00:33:59,889 - devpinoyLogger -INFO - Preferences clickble
+2020-06-01 00:34:00,993 - devpinoyLogger -INFO - Preferences sucessfull
+2020-06-01 00:34:01,795 - devpinoyLogger -INFO - Notification settings icon clicked
+2020-06-01 00:34:02,751 - devpinoyLogger -INFO - Notification settings sucessfull
+2020-06-01 00:38:49,579 - devpinoyLogger -INFO - App opened
+2020-06-01 00:39:02,575 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-01 00:39:07,349 - devpinoyLogger -INFO - user email passed into text box
+2020-06-01 00:39:12,843 - devpinoyLogger -INFO - user password passed into text box
+2020-06-01 00:39:16,321 - devpinoyLogger -INFO - log in button clicked
+2020-06-01 00:39:33,227 - devpinoyLogger -INFO - skipped icon clicked
+2020-06-01 00:39:34,897 - devpinoyLogger -INFO - Menu icon clicked
+2020-06-01 00:39:37,331 - devpinoyLogger -INFO - settings icon clicked
+2020-06-01 00:39:40,955 - devpinoyLogger -INFO - Preferences clickble
+2020-06-01 00:39:41,955 - devpinoyLogger -INFO - Preferences sucessfull
+2020-06-01 00:39:42,890 - devpinoyLogger -INFO - Notification settings icon clicked
+2020-06-01 00:39:44,170 - devpinoyLogger -INFO - Notification settings sucessfull
+2020-06-01 00:44:05,633 - devpinoyLogger -INFO - App opened
+2020-06-01 00:44:20,716 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-01 00:44:25,501 - devpinoyLogger -INFO - user email passed into text box
+2020-06-01 00:44:31,125 - devpinoyLogger -INFO - user password passed into text box
+2020-06-01 00:44:34,633 - devpinoyLogger -INFO - log in button clicked
+2020-06-01 00:44:51,367 - devpinoyLogger -INFO - skipped icon clicked
+2020-06-01 00:44:52,949 - devpinoyLogger -INFO - Menu icon clicked
+2020-06-01 00:44:55,337 - devpinoyLogger -INFO - settings icon clicked
+2020-06-01 00:44:58,178 - devpinoyLogger -INFO - Preferences clickble
+2020-06-01 00:45:03,902 - devpinoyLogger -INFO - Preferences sucessfull
+2020-06-01 00:45:04,557 - devpinoyLogger -INFO - Notification settings icon clicked
+2020-06-01 00:45:05,511 - devpinoyLogger -INFO - Notification settings sucessfull
+2020-06-01 00:47:14,315 - devpinoyLogger -INFO - App opened
+2020-06-01 00:47:26,840 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-01 00:47:30,849 - devpinoyLogger -INFO - user email passed into text box
+2020-06-01 00:47:36,755 - devpinoyLogger -INFO - user password passed into text box
+2020-06-01 00:47:40,395 - devpinoyLogger -INFO - log in button clicked
+2020-06-01 00:48:04,801 - devpinoyLogger -INFO - skipped icon clicked
+2020-06-01 00:48:07,040 - devpinoyLogger -INFO - Menu icon clicked
+2020-06-01 00:48:09,321 - devpinoyLogger -INFO - settings icon clicked
+2020-06-01 00:48:12,371 - devpinoyLogger -INFO - Preferences clickble
+2020-06-01 00:48:13,369 - devpinoyLogger -INFO - Preferences sucessfull
+2020-06-01 00:48:14,065 - devpinoyLogger -INFO - Notification settings icon clicked
+2020-06-01 00:48:15,015 - devpinoyLogger -INFO - Notification settings sucessfull
+2020-06-01 00:48:16,703 - devpinoyLogger -INFO - clicked on connection settings)
+2020-06-01 00:51:38,599 - devpinoyLogger -INFO - App opened
+2020-06-01 00:51:51,543 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-01 00:51:56,098 - devpinoyLogger -INFO - user email passed into text box
+2020-06-01 00:51:59,120 - devpinoyLogger -INFO - user password passed into text box
+2020-06-01 00:52:02,095 - devpinoyLogger -INFO - log in button clicked
+2020-06-01 00:52:09,827 - devpinoyLogger -INFO - skipped icon clicked
+2020-06-01 00:52:11,323 - devpinoyLogger -INFO - Menu icon clicked
+2020-06-01 00:52:13,696 - devpinoyLogger -INFO - settings icon clicked
+2020-06-01 00:52:16,992 - devpinoyLogger -INFO - Preferences clickble
+2020-06-01 00:52:17,962 - devpinoyLogger -INFO - Preferences sucessfull
+2020-06-01 00:52:18,643 - devpinoyLogger -INFO - Notification settings icon clicked
+2020-06-01 00:52:19,606 - devpinoyLogger -INFO - Notification settings sucessfull
+2020-06-01 00:52:22,286 - devpinoyLogger -INFO - clicked on connection settings)
+2020-06-01 00:54:48,204 - devpinoyLogger -INFO - App opened
+2020-06-01 00:55:06,838 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-01 00:55:11,569 - devpinoyLogger -INFO - user email passed into text box
+2020-06-01 00:55:16,974 - devpinoyLogger -INFO - user password passed into text box
+2020-06-01 00:55:20,421 - devpinoyLogger -INFO - log in button clicked
+2020-06-01 00:55:47,887 - devpinoyLogger -INFO - skipped icon clicked
+2020-06-01 00:55:49,389 - devpinoyLogger -INFO - Menu icon clicked
+2020-06-01 00:55:51,638 - devpinoyLogger -INFO - settings icon clicked
+2020-06-01 00:55:54,403 - devpinoyLogger -INFO - Preferences clickble
+2020-06-01 00:55:55,387 - devpinoyLogger -INFO - Preferences sucessfull
+2020-06-01 00:55:56,063 - devpinoyLogger -INFO - Notification settings icon clicked
+2020-06-01 00:55:56,998 - devpinoyLogger -INFO - Notification settings sucessfull
+2020-06-01 00:55:59,759 - devpinoyLogger -INFO - clicked on connection settings)
+2020-06-01 00:56:06,787 - devpinoyLogger -INFO - clciked on provider(connection settings)
+2020-06-01 00:56:06,788 - devpinoyLogger -INFO - connection settings sucessful

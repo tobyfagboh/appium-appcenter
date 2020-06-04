@@ -4,15 +4,17 @@ import static org.junit.Assert.*;
 
 import java.io.IOException;
 import java.util.concurrent.TimeUnit;
+
+import org.junit.Assert;
 import org.junit.Rule;
 import org.junit.Test;
 import org.junit.rules.TestWatcher;
 import org.openqa.selenium.By;
-
 import com.microsoft.altframeworktraining.TestBase;
 import com.microsoft.appcenter.appium.EnhancedAndroidDriver;
 import com.microsoft.appcenter.appium.Factory;
 import io.appium.java_client.MobileElement;
+import io.appium.java_client.android.AndroidKeyCode;
 
 public class loginTest extends TestBase {
 
@@ -132,6 +134,10 @@ public class loginTest extends TestBase {
 	String Connect2provider_XPATH = "//*[@text='Connect']";
 	String confirmation2connect_XPATH = "//*[@text='Confirm']";
 	
+	//Settings
+	String settings_XPATH = "//*[@text='Preferences']";
+	
+	
 	
 
 	@Rule
@@ -189,7 +195,7 @@ public class loginTest extends TestBase {
 
 		log.info("Login is successful");
 
-	} */
+	} 
 	
 	
 	
@@ -250,11 +256,97 @@ public class loginTest extends TestBase {
         driver.findElement(By.xpath(confirmation2connect_XPATH)).click();
         log.info(" confirmation to connect to a provider");
 
+	}  */
+	
+	
+	@SuppressWarnings("deprecation")
+	@Test
+	public void Settings () throws IOException, InterruptedException {
+
+		EnhancedAndroidDriver<MobileElement> driver = Capabilities();
+	
+		log.info("App opened");
+
+		driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
+		driver.findElement(By.xpath(P_login_XPATH)).click();
+		log.info("I already have an account clicked");
+
+		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
+		driver.findElement(By.xpath(P_email_XPATH)).sendKeys(email_TEXT);
+		log.info("user email passed into text box");
+
+		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
+		driver.findElement(By.xpath(password_XPATH)).sendKeys(password_TEXT);
+		log.info("user password passed into text box");
+
+		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
+		driver.findElement(By.xpath(loginBtn2_XPATH)).click();
+		log.info("log in button clicked");
+		
+		driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
+		driver.findElement(By.xpath(skipTour_XPATH)).click();
+		log.info("skipped icon clicked");
+		
+		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
+        driver.findElement(By.xpath(menu_XPATH)).click();
+        log.info("Menu icon clicked");
+		
+		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
+		driver.findElement(By.xpath("//*[@text='Settings']")).click();
+		log.info("settings icon clicked");
+		
+		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+		driver.findElement(By.xpath("//*[@text='Preferences']")).click();
+		log.info("Preferences clickble");
+		
+		driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
+		String actualString = driver.findElement(By.xpath(("//*[@text='Receive first-class mail']"))).getText();
+		assertTrue(actualString.contains("first-class mail"));
+		log.info("Preferences sucessfull");
+		
+		
+		
+		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+		driver.findElement(By.xpath("//*[@text='Notification Settings']")).click();
+		log.info("Notification settings icon clicked");
+		
+		
+		String actualtext = driver.findElement(By.xpath(("//*[@text='Disable push notifications']"))).getText();
+		assertTrue(actualtext.contains("Disable push notifications"));
+		log.info("Notification settings sucessfull");
+		
+		driver.findElement(By.xpath("//*[@text='Notification Settings']")).click();
+		driver.findElement(By.xpath("//*[@text='Preferences']")).click();
+
+		
+		driver.findElement(By.xpath("//*[@text='Connection Settings']")).click();
+		log.info("clicked on connection settings)");
+		
+		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
+		driver.findElement(By.xpath("//*[@text='Payers']")).click();
+		
+		driver.findElement(By.xpath("//*[@text='Medicare']")).click();
+		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+		String Payer = driver.findElement(By.xpath(("//*[@text='Medicare']"))).getText();
+		assertTrue(Payer.contains("Medicare"));
+
+		driver.findElement(By.xpath("//*[@text='Providers']")).click();
+		log.info("clciked on provider(connection settings)");
+		log.info("connection settings sucessful");
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 	}
-	
-	
-	
-	
 	
 	
 	
