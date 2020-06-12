@@ -1,4 +1,4 @@
-package com.microsoft.altframeworktraining;
+package com.mycareai;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -33,6 +33,7 @@ import com.microsoft.appcenter.appium.Factory;
 
 import io.appium.java_client.MobileElement;
 import io.appium.java_client.remote.AndroidMobileCapabilityType;
+import io.appium.java_client.remote.IOSMobileCapabilityType;
 import io.appium.java_client.remote.MobileCapabilityType;
 
 public class TestBase {

@@ -10,9 +10,9 @@ import org.junit.Test;
 import org.junit.rules.TestWatcher;
 import org.openqa.selenium.By;
 
-import com.microsoft.altframeworktraining.TestBase;
 import com.microsoft.appcenter.appium.EnhancedAndroidDriver;
 import com.microsoft.appcenter.appium.Factory;
+import com.mycareai.TestBase;
 
 import io.appium.java_client.MobileElement;
 

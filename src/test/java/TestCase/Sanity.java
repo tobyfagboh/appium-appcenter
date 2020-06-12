@@ -9,12 +9,13 @@ import org.junit.Test;
 import org.junit.rules.TestWatcher;
 import org.openqa.selenium.By;
 
-import com.microsoft.altframeworktraining.TestBase;
 import com.microsoft.appcenter.appium.EnhancedAndroidDriver;
 import com.microsoft.appcenter.appium.Factory;
+import com.mycareai.TestBase;
+
 import io.appium.java_client.MobileElement;
 
-public class sanityTest extends TestBase {
+public class Sanity extends TestBase {
 
 	String letsGetStarted_XPATH = "//android.widget.TextView[@text=concat('Let', \\\"'\\\", 's Get Started')]";
 	String letsGetStarted2_XPATH = "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.view.ViewGroup/android.view.ViewGroup[1]/android.view.ViewGroup/android.widget.TextView";

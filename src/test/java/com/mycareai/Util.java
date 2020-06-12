@@ -1,4 +1,4 @@
-package com.microsoft.altframeworktraining;
+package com.mycareai;
 
 import com.microsoft.appcenter.appium.EnhancedAndroidDriver;
 import io.appium.java_client.MobileElement;
