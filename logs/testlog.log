@@ -870,3 +870,549 @@
 2020-06-09 11:11:46,075 - devpinoyLogger -INFO - Virtual Assistance Clicked
 2020-06-09 11:11:52,381 - devpinoyLogger -INFO - Enter text successful
 2020-06-09 11:11:53,542 - devpinoyLogger -INFO - Send key clicked
+2020-06-18 19:31:10,270 - devpinoyLogger -INFO - App opened
+2020-06-18 19:31:28,576 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-18 19:31:31,597 - devpinoyLogger -INFO - user email passed into text box
+2020-06-18 19:31:32,891 - devpinoyLogger -INFO - user password passed into text box
+2020-06-18 19:31:34,048 - devpinoyLogger -INFO - log in button clicked
+2020-06-18 19:31:40,167 - devpinoyLogger -INFO - Menu icon clicked
+2020-06-18 19:32:49,798 - devpinoyLogger -INFO - App opened
+2020-06-18 19:33:10,064 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-18 19:33:15,653 - devpinoyLogger -INFO - user email passed into text box
+2020-06-18 19:33:19,363 - devpinoyLogger -INFO - user password passed into text box
+2020-06-18 19:33:22,326 - devpinoyLogger -INFO - log in button clicked
+2020-06-18 19:34:22,486 - devpinoyLogger -INFO - App opened
+2020-06-18 19:34:41,623 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-18 19:34:42,097 - devpinoyLogger -INFO - user email passed into text box
+2020-06-18 19:34:43,274 - devpinoyLogger -INFO - user password passed into text box
+2020-06-18 19:34:44,444 - devpinoyLogger -INFO - log in button clicked
+2020-06-18 19:34:44,447 - devpinoyLogger -INFO - Login is successful
+2020-06-18 19:35:38,705 - devpinoyLogger -INFO - App opened
+2020-06-18 19:35:59,582 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-18 19:36:01,548 - devpinoyLogger -INFO - user email passed into text box
+2020-06-18 19:36:02,774 - devpinoyLogger -INFO - user password passed into text box
+2020-06-18 19:36:04,040 - devpinoyLogger -INFO - log in button clicked
+2020-06-18 19:36:58,338 - devpinoyLogger -INFO - App opened
+2020-06-18 19:37:19,622 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-18 19:37:23,075 - devpinoyLogger -INFO - user email passed into text box
+2020-06-18 19:37:26,328 - devpinoyLogger -INFO - user password passed into text box
+2020-06-18 19:37:28,908 - devpinoyLogger -INFO - log in button clicked
+2020-06-18 19:37:37,992 - devpinoyLogger -INFO - Menu icon clicked
+2020-06-18 19:39:10,413 - devpinoyLogger -INFO - App opened
+2020-06-18 19:39:37,860 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-18 19:39:43,584 - devpinoyLogger -INFO - user email passed into text box
+2020-06-18 19:39:47,114 - devpinoyLogger -INFO - user password passed into text box
+2020-06-18 19:39:50,265 - devpinoyLogger -INFO - log in button clicked
+2020-06-18 19:41:28,691 - devpinoyLogger -INFO - App opened
+2020-06-18 19:41:52,470 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-18 19:41:56,030 - devpinoyLogger -INFO - user email passed into text box
+2020-06-18 19:41:58,920 - devpinoyLogger -INFO - user password passed into text box
+2020-06-18 19:42:00,139 - devpinoyLogger -INFO - log in button clicked
+2020-06-18 19:42:06,929 - devpinoyLogger -INFO - Menu icon clicked
+2020-06-18 20:12:45,574 - devpinoyLogger -INFO - App opened
+2020-06-18 20:13:01,735 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-18 20:13:04,222 - devpinoyLogger -INFO - user email passed into text box
+2020-06-18 20:13:05,344 - devpinoyLogger -INFO - user password passed into text box
+2020-06-18 20:13:06,752 - devpinoyLogger -INFO - log in button clicked
+2020-06-19 12:37:19,451 - devpinoyLogger -INFO - App opened
+2020-06-19 12:49:00,836 - devpinoyLogger -INFO - App opened
+2020-06-19 12:52:00,378 - devpinoyLogger -INFO - App opened
+2020-06-19 12:54:53,857 - devpinoyLogger -INFO - App opened
+2020-06-19 12:55:11,470 - devpinoyLogger -INFO - Lets Get Started clicked
+2020-06-19 13:05:32,963 - devpinoyLogger -INFO - App opened
+2020-06-19 13:05:55,234 - devpinoyLogger -INFO - Lets Get Started clicked
+2020-06-19 13:10:05,924 - devpinoyLogger -INFO - App opened
+2020-06-19 13:10:16,688 - devpinoyLogger -INFO - Lets Get Started clicked
+2020-06-19 13:16:44,597 - devpinoyLogger -INFO - App opened
+2020-06-19 13:17:06,028 - devpinoyLogger -INFO - Lets Get Started clicked
+2020-06-19 13:36:06,384 - devpinoyLogger -INFO - App opened
+2020-06-19 13:36:10,524 - devpinoyLogger -INFO - Lets Get Started clicked
+2020-06-19 13:54:06,724 - devpinoyLogger -INFO - App opened
+2020-06-19 13:54:28,388 - devpinoyLogger -INFO - Lets Get Started clicked
+2020-06-19 13:57:41,442 - devpinoyLogger -INFO - App opened
+2020-06-19 13:57:55,172 - devpinoyLogger -INFO - Lets Get Started clicked
+2020-06-19 16:20:42,110 - devpinoyLogger -INFO - App opened
+2020-06-19 16:20:56,389 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-19 16:21:00,851 - devpinoyLogger -INFO - user email passed into text box
+2020-06-19 16:21:03,739 - devpinoyLogger -INFO - user password passed into text box
+2020-06-19 16:21:06,846 - devpinoyLogger -INFO - log in button clicked
+2020-06-19 16:24:14,338 - devpinoyLogger -INFO - App opened
+2020-06-19 16:24:51,379 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-19 16:24:54,582 - devpinoyLogger -INFO - user email passed into text box
+2020-06-19 16:25:00,090 - devpinoyLogger -INFO - user password passed into text box
+2020-06-19 16:25:03,172 - devpinoyLogger -INFO - log in button clicked
+2020-06-19 19:33:34,734 - devpinoyLogger -INFO - App opened
+2020-06-19 19:33:59,048 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-19 19:34:03,866 - devpinoyLogger -INFO - user email passed into text box
+2020-06-19 19:34:07,318 - devpinoyLogger -INFO - user password passed into text box
+2020-06-19 19:34:10,048 - devpinoyLogger -INFO - log in button clicked
+2020-06-19 19:46:34,790 - devpinoyLogger -INFO - App opened
+2020-06-19 19:46:54,113 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-19 19:46:59,692 - devpinoyLogger -INFO - user email passed into text box
+2020-06-19 19:47:03,193 - devpinoyLogger -INFO - user password passed into text box
+2020-06-19 19:47:06,174 - devpinoyLogger -INFO - log in button clicked
+2020-06-19 19:47:13,344 - devpinoyLogger -INFO - Login is successful
+2020-06-19 19:47:23,928 - devpinoyLogger -INFO - Timeline clicked
+2020-06-19 19:54:37,897 - devpinoyLogger -INFO - App opened
+2020-06-19 19:54:58,648 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-19 19:55:05,132 - devpinoyLogger -INFO - user email passed into text box
+2020-06-19 19:55:10,818 - devpinoyLogger -INFO - user password passed into text box
+2020-06-19 19:55:15,228 - devpinoyLogger -INFO - log in button clicked
+2020-06-19 19:55:22,582 - devpinoyLogger -INFO - Login is successful
+2020-06-19 19:55:33,062 - devpinoyLogger -INFO - Timeline clicked
+2020-06-19 19:55:41,321 - devpinoyLogger -INFO - Skip button clicked
+2020-06-19 19:55:42,450 - devpinoyLogger -INFO - Health history clicked
+2020-06-19 20:00:33,218 - devpinoyLogger -INFO - App opened
+2020-06-19 20:00:48,684 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-19 20:00:52,815 - devpinoyLogger -INFO - user email passed into text box
+2020-06-19 20:00:55,759 - devpinoyLogger -INFO - user password passed into text box
+2020-06-19 20:00:58,847 - devpinoyLogger -INFO - log in button clicked
+2020-06-19 20:01:07,224 - devpinoyLogger -INFO - Login is successful
+2020-06-19 20:01:17,844 - devpinoyLogger -INFO - Timeline clicked
+2020-06-19 20:01:25,441 - devpinoyLogger -INFO - Skip button clicked
+2020-06-19 20:01:26,590 - devpinoyLogger -INFO - Health history clicked
+2020-06-19 20:01:34,827 - devpinoyLogger -INFO - Skip button clicked
+2020-06-19 20:01:36,498 - devpinoyLogger -INFO - Claims drop down button clicked
+2020-06-19 20:01:37,609 - devpinoyLogger -INFO - View Claims is clicked
+2020-06-19 20:19:52,095 - devpinoyLogger -INFO - App opened
+2020-06-19 20:20:08,561 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-19 20:20:10,980 - devpinoyLogger -INFO - user email passed into text box
+2020-06-19 20:20:12,811 - devpinoyLogger -INFO - user password passed into text box
+2020-06-19 20:20:14,004 - devpinoyLogger -INFO - log in button clicked
+2020-06-19 20:20:18,758 - devpinoyLogger -INFO - Menu icon clicked
+2020-06-19 20:23:37,513 - devpinoyLogger -INFO - App opened
+2020-06-19 20:24:08,480 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-19 20:24:10,383 - devpinoyLogger -INFO - user email passed into text box
+2020-06-19 20:24:11,528 - devpinoyLogger -INFO - user password passed into text box
+2020-06-19 20:24:12,850 - devpinoyLogger -INFO - log in button clicked
+2020-06-19 20:24:28,235 - devpinoyLogger -INFO - Menu icon clicked
+2020-06-19 20:24:30,657 - devpinoyLogger -INFO - Skip successful
+2020-06-19 20:24:33,657 - devpinoyLogger -INFO - Connections icon clicked
+2020-06-19 20:24:34,028 - devpinoyLogger -INFO - Payer Button clicked
+2020-06-19 20:24:41,796 - devpinoyLogger -INFO - Add Payer Button clicked
+2020-06-19 20:24:43,112 - devpinoyLogger -INFO - Edifecs Payer clicked
+2020-06-19 20:24:44,478 - devpinoyLogger -INFO - Connect button clicked
+2020-06-19 20:24:47,392 - devpinoyLogger -INFO - Confirm  Connect button clicked
+2020-06-19 20:27:48,089 - devpinoyLogger -INFO - App opened
+2020-06-19 20:28:02,357 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-19 20:28:04,419 - devpinoyLogger -INFO - user email passed into text box
+2020-06-19 20:28:05,434 - devpinoyLogger -INFO - user password passed into text box
+2020-06-19 20:28:06,622 - devpinoyLogger -INFO - log in button clicked
+2020-06-19 20:28:16,145 - devpinoyLogger -INFO - Menu icon clicked
+2020-06-19 20:28:18,083 - devpinoyLogger -INFO - Share clicked
+2020-06-19 20:28:21,288 - devpinoyLogger -INFO - Add to contact button clicked
+2020-06-19 20:28:22,447 - devpinoyLogger -INFO - Yes, I understand button clicked
+2020-06-19 20:31:05,478 - devpinoyLogger -INFO - App opened
+2020-06-19 20:31:22,376 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-19 20:31:25,787 - devpinoyLogger -INFO - user email passed into text box
+2020-06-19 20:31:28,718 - devpinoyLogger -INFO - user password passed into text box
+2020-06-19 20:31:31,772 - devpinoyLogger -INFO - log in button clicked
+2020-06-19 20:31:42,390 - devpinoyLogger -INFO - Menu icon clicked
+2020-06-19 20:31:44,732 - devpinoyLogger -INFO - Virtual Assistance Clicked
+2020-06-19 20:32:05,293 - devpinoyLogger -INFO - Enter text successful
+2020-06-19 20:32:06,406 - devpinoyLogger -INFO - Send key clicked
+2020-06-19 20:36:28,147 - devpinoyLogger -INFO - App opened
+2020-06-19 20:36:48,220 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-19 20:36:53,854 - devpinoyLogger -INFO - user email passed into text box
+2020-06-19 20:36:57,393 - devpinoyLogger -INFO - user password passed into text box
+2020-06-19 20:37:00,372 - devpinoyLogger -INFO - log in button clicked
+2020-06-19 20:37:11,351 - devpinoyLogger -INFO - Login is successful
+2020-06-19 20:42:03,206 - devpinoyLogger -INFO - App opened
+2020-06-19 20:42:18,010 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-19 20:42:20,019 - devpinoyLogger -INFO - user email passed into text box
+2020-06-19 20:42:21,708 - devpinoyLogger -INFO - user password passed into text box
+2020-06-19 20:42:23,131 - devpinoyLogger -INFO - log in button clicked
+2020-06-19 20:42:29,241 - devpinoyLogger -INFO - Menu icon clicked
+2020-06-19 20:46:29,329 - devpinoyLogger -INFO - App opened
+2020-06-19 20:46:43,299 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-19 20:46:45,806 - devpinoyLogger -INFO - user email passed into text box
+2020-06-19 20:46:47,495 - devpinoyLogger -INFO - user password passed into text box
+2020-06-19 20:46:48,624 - devpinoyLogger -INFO - log in button clicked
+2020-06-19 20:46:53,678 - devpinoyLogger -INFO - Menu icon clicked
+2020-06-19 20:46:55,108 - devpinoyLogger -INFO - skip successful
+2020-06-19 20:46:56,278 - devpinoyLogger -INFO - Connections icon clicked
+2020-06-19 20:46:58,314 - devpinoyLogger -INFO - Provider button clicked
+2020-06-19 20:47:01,873 - devpinoyLogger -INFO - icon clicked to see lists of providers
+2020-06-19 20:47:03,001 - devpinoyLogger -INFO - click on a provider
+2020-06-19 20:47:04,517 - devpinoyLogger -INFO - connect to a provider
+2020-06-19 20:47:06,235 - devpinoyLogger -INFO -  confirmation to connect to a provider
+2020-06-19 20:51:26,235 - devpinoyLogger -INFO - App opened
+2020-06-19 20:51:39,887 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-19 20:51:43,399 - devpinoyLogger -INFO - user email passed into text box
+2020-06-19 20:51:46,809 - devpinoyLogger -INFO - user password passed into text box
+2020-06-19 20:51:49,520 - devpinoyLogger -INFO - log in button clicked
+2020-06-19 20:52:57,928 - devpinoyLogger -INFO - App opened
+2020-06-19 20:53:19,579 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-19 20:53:21,631 - devpinoyLogger -INFO - user email passed into text box
+2020-06-19 20:53:22,805 - devpinoyLogger -INFO - user password passed into text box
+2020-06-19 20:53:23,977 - devpinoyLogger -INFO - log in button clicked
+2020-06-19 20:53:30,746 - devpinoyLogger -INFO - Menu icon clicked
+2020-06-19 20:53:32,642 - devpinoyLogger -INFO - Share clicked
+2020-06-19 20:53:35,944 - devpinoyLogger -INFO - Add to contact button clicked
+2020-06-19 20:53:37,897 - devpinoyLogger -INFO - Yes, I understand button clicked
+2020-06-19 20:54:26,908 - devpinoyLogger -INFO - App opened
+2020-06-19 20:54:45,450 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-19 20:54:47,733 - devpinoyLogger -INFO - user email passed into text box
+2020-06-19 20:54:48,879 - devpinoyLogger -INFO - user password passed into text box
+2020-06-19 20:54:50,594 - devpinoyLogger -INFO - log in button clicked
+2020-06-19 20:54:50,594 - devpinoyLogger -INFO - Login is successful
+2020-06-19 20:55:43,315 - devpinoyLogger -INFO - App opened
+2020-06-19 20:56:07,342 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-19 20:56:12,990 - devpinoyLogger -INFO - user email passed into text box
+2020-06-19 20:56:16,597 - devpinoyLogger -INFO - user password passed into text box
+2020-06-19 20:56:19,987 - devpinoyLogger -INFO - log in button clicked
+2020-06-19 20:56:32,908 - devpinoyLogger -INFO - Login is successful
+2020-06-19 20:57:21,947 - devpinoyLogger -INFO - App opened
+2020-06-19 20:57:37,646 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-19 20:57:39,605 - devpinoyLogger -INFO - user email passed into text box
+2020-06-19 20:57:40,845 - devpinoyLogger -INFO - user password passed into text box
+2020-06-19 20:57:42,048 - devpinoyLogger -INFO - log in button clicked
+2020-06-19 20:58:27,183 - devpinoyLogger -INFO - App opened
+2020-06-19 20:58:43,161 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-19 20:58:45,122 - devpinoyLogger -INFO - user email passed into text box
+2020-06-19 20:58:46,824 - devpinoyLogger -INFO - user password passed into text box
+2020-06-19 20:58:48,099 - devpinoyLogger -INFO - log in button clicked
+2020-06-19 20:59:05,285 - devpinoyLogger -INFO - Menu icon clicked
+2020-06-19 20:59:08,169 - devpinoyLogger -INFO - Skip successful
+2020-06-19 20:59:09,503 - devpinoyLogger -INFO - Connections icon clicked
+2020-06-19 20:59:11,629 - devpinoyLogger -INFO - Payer Button clicked
+2020-06-19 20:59:20,758 - devpinoyLogger -INFO - Add Payer Button clicked
+2020-06-19 20:59:22,074 - devpinoyLogger -INFO - Edifecs Payer clicked
+2020-06-19 20:59:23,539 - devpinoyLogger -INFO - Connect button clicked
+2020-06-19 20:59:25,396 - devpinoyLogger -INFO - Confirm  Connect button clicked
+2020-06-19 21:00:19,064 - devpinoyLogger -INFO - App opened
+2020-06-19 21:00:35,050 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-19 21:00:37,035 - devpinoyLogger -INFO - user email passed into text box
+2020-06-19 21:00:39,101 - devpinoyLogger -INFO - user password passed into text box
+2020-06-19 21:00:40,258 - devpinoyLogger -INFO - log in button clicked
+2020-06-19 21:00:49,041 - devpinoyLogger -INFO - Login is successful
+2020-06-19 21:00:59,637 - devpinoyLogger -INFO - Timeline clicked
+2020-06-19 21:01:12,717 - devpinoyLogger -INFO - Skip button clicked
+2020-06-19 21:01:13,846 - devpinoyLogger -INFO - Health history clicked
+2020-06-19 21:01:19,242 - devpinoyLogger -INFO - Skip button clicked
+2020-06-19 21:01:20,926 - devpinoyLogger -INFO - Claims drop down button clicked
+2020-06-19 21:02:43,500 - devpinoyLogger -INFO - App opened
+2020-06-19 21:08:15,906 - devpinoyLogger -INFO - App opened
+2020-06-19 21:08:31,968 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-19 21:08:36,322 - devpinoyLogger -INFO - user email passed into text box
+2020-06-19 21:08:37,472 - devpinoyLogger -INFO - user password passed into text box
+2020-06-19 21:08:39,047 - devpinoyLogger -INFO - log in button clicked
+2020-06-19 21:08:51,717 - devpinoyLogger -INFO - Menu icon clicked
+2020-06-19 21:08:53,604 - devpinoyLogger -INFO - skip successful
+2020-06-19 21:08:55,296 - devpinoyLogger -INFO - Connections icon clicked
+2020-06-19 21:08:57,500 - devpinoyLogger -INFO - Provider button clicked
+2020-06-19 21:09:05,490 - devpinoyLogger -INFO - icon clicked to see lists of providers
+2020-06-19 21:09:06,817 - devpinoyLogger -INFO - click on a provider
+2020-06-19 21:09:08,256 - devpinoyLogger -INFO - connect to a provider
+2020-06-19 21:09:10,011 - devpinoyLogger -INFO -  confirmation to connect to a provider
+2020-06-19 21:09:59,999 - devpinoyLogger -INFO - App opened
+2020-06-19 21:10:17,132 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-19 21:10:19,164 - devpinoyLogger -INFO - user email passed into text box
+2020-06-19 21:10:20,387 - devpinoyLogger -INFO - user password passed into text box
+2020-06-19 21:10:21,554 - devpinoyLogger -INFO - log in button clicked
+2020-06-19 21:10:30,953 - devpinoyLogger -INFO - Login is successful
+2020-06-19 21:10:43,158 - devpinoyLogger -INFO - Timeline clicked
+2020-06-19 21:10:56,763 - devpinoyLogger -INFO - Skip button clicked
+2020-06-19 21:10:58,418 - devpinoyLogger -INFO - Health history clicked
+2020-06-19 21:11:03,428 - devpinoyLogger -INFO - Skip button clicked
+2020-06-19 21:11:05,261 - devpinoyLogger -INFO - Claims drop down button clicked
+2020-06-19 21:12:31,063 - devpinoyLogger -INFO - App opened
+2020-06-19 21:17:40,030 - devpinoyLogger -INFO - App opened
+2020-06-19 21:17:58,264 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-19 21:18:04,000 - devpinoyLogger -INFO - user email passed into text box
+2020-06-19 21:18:07,570 - devpinoyLogger -INFO - user password passed into text box
+2020-06-19 21:18:10,503 - devpinoyLogger -INFO - log in button clicked
+2020-06-19 21:18:18,487 - devpinoyLogger -INFO - Login is successful
+2020-06-19 21:18:28,970 - devpinoyLogger -INFO - Timeline clicked
+2020-06-19 21:18:41,454 - devpinoyLogger -INFO - Skip button clicked
+2020-06-19 21:18:42,568 - devpinoyLogger -INFO - Health history clicked
+2020-06-19 21:18:47,612 - devpinoyLogger -INFO - Skip button clicked
+2020-06-19 21:18:49,160 - devpinoyLogger -INFO - Claims drop down button clicked
+2020-06-19 21:22:14,291 - devpinoyLogger -INFO - App opened
+2020-06-19 21:22:26,182 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-19 21:22:29,700 - devpinoyLogger -INFO - user email passed into text box
+2020-06-19 21:22:33,097 - devpinoyLogger -INFO - user password passed into text box
+2020-06-19 21:22:35,791 - devpinoyLogger -INFO - log in button clicked
+2020-06-19 21:22:47,132 - devpinoyLogger -INFO - Login is successful
+2020-06-19 21:22:59,290 - devpinoyLogger -INFO - Timeline clicked
+2020-06-19 21:23:17,355 - devpinoyLogger -INFO - Skip button clicked
+2020-06-19 21:23:18,495 - devpinoyLogger -INFO - Health history clicked
+2020-06-19 21:23:23,113 - devpinoyLogger -INFO - Skip button clicked
+2020-06-19 21:23:24,735 - devpinoyLogger -INFO - Claims drop down button clicked
+2020-06-19 21:27:57,959 - devpinoyLogger -INFO - App opened
+2020-06-19 21:28:13,900 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-19 21:28:16,442 - devpinoyLogger -INFO - user email passed into text box
+2020-06-19 21:28:18,238 - devpinoyLogger -INFO - user password passed into text box
+2020-06-19 21:28:19,531 - devpinoyLogger -INFO - log in button clicked
+2020-06-19 21:28:33,494 - devpinoyLogger -INFO - Login is successful
+2020-06-19 21:28:44,032 - devpinoyLogger -INFO - Timeline clicked
+2020-06-19 21:28:57,872 - devpinoyLogger -INFO - Skip button clicked
+2020-06-19 21:28:58,996 - devpinoyLogger -INFO - Health history clicked
+2020-06-19 21:29:04,159 - devpinoyLogger -INFO - Skip button clicked
+2020-06-19 21:29:06,079 - devpinoyLogger -INFO - Claims drop down button clicked
+2020-06-19 21:29:07,022 - devpinoyLogger -INFO - View Claims is clicked
+2020-06-19 21:31:10,290 - devpinoyLogger -INFO - App opened
+2020-06-19 21:31:29,754 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-19 21:31:33,304 - devpinoyLogger -INFO - user email passed into text box
+2020-06-19 21:31:36,177 - devpinoyLogger -INFO - user password passed into text box
+2020-06-19 21:31:39,180 - devpinoyLogger -INFO - log in button clicked
+2020-06-19 21:31:49,135 - devpinoyLogger -INFO - Menu icon clicked
+2020-06-19 21:34:37,426 - devpinoyLogger -INFO - App opened
+2020-06-19 21:35:03,751 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-19 21:35:06,664 - devpinoyLogger -INFO - user email passed into text box
+2020-06-19 21:35:10,195 - devpinoyLogger -INFO - user password passed into text box
+2020-06-19 21:35:13,313 - devpinoyLogger -INFO - log in button clicked
+2020-06-19 21:35:25,376 - devpinoyLogger -INFO - Menu icon clicked
+2020-06-19 21:35:28,564 - devpinoyLogger -INFO - skippeed successful
+2020-06-19 21:35:29,839 - devpinoyLogger -INFO - Virtual Assistance Clicked
+2020-06-19 21:37:08,207 - devpinoyLogger -INFO - App opened
+2020-06-19 21:37:20,308 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-19 21:37:24,884 - devpinoyLogger -INFO - user email passed into text box
+2020-06-19 21:37:26,514 - devpinoyLogger -INFO - user password passed into text box
+2020-06-19 21:37:27,806 - devpinoyLogger -INFO - log in button clicked
+2020-06-19 21:37:37,208 - devpinoyLogger -INFO - Menu icon clicked
+2020-06-19 21:37:39,436 - devpinoyLogger -INFO - skippeed successful
+2020-06-19 21:37:40,668 - devpinoyLogger -INFO - Virtual Assistance Clicked
+2020-06-19 21:38:06,836 - devpinoyLogger -INFO - Enter text successful
+2020-06-19 21:38:08,066 - devpinoyLogger -INFO - Send key clicked
+2020-06-19 22:58:39,403 - devpinoyLogger -INFO - App opened
+2020-06-19 23:02:57,044 - devpinoyLogger -INFO - App opened
+2020-06-19 23:03:13,312 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-19 23:03:19,187 - devpinoyLogger -INFO - user email passed into text box
+2020-06-19 23:05:57,027 - devpinoyLogger -INFO - App opened
+2020-06-19 23:06:17,784 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-19 23:06:21,502 - devpinoyLogger -INFO - user email passed into text box
+2020-06-19 23:06:22,670 - devpinoyLogger -INFO - user password passed into text box
+2020-06-19 23:06:23,911 - devpinoyLogger -INFO - log in button clicked
+2020-06-19 23:07:30,673 - devpinoyLogger -INFO - App opened
+2020-06-19 23:07:47,533 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-19 23:07:53,616 - devpinoyLogger -INFO - user email passed into text box
+2020-06-19 23:07:57,200 - devpinoyLogger -INFO - user password passed into text box
+2020-06-19 23:08:00,105 - devpinoyLogger -INFO - log in button clicked
+2020-06-19 23:08:06,526 - devpinoyLogger -INFO - Menu icon clicked
+2020-06-19 23:08:55,401 - devpinoyLogger -INFO - App opened
+2020-06-19 23:09:10,571 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-19 23:09:13,018 - devpinoyLogger -INFO - user email passed into text box
+2020-06-19 23:09:14,750 - devpinoyLogger -INFO - user password passed into text box
+2020-06-19 23:09:15,866 - devpinoyLogger -INFO - log in button clicked
+2020-06-19 23:09:15,873 - devpinoyLogger -INFO - Login is successful
+2020-06-19 23:10:02,116 - devpinoyLogger -INFO - App opened
+2020-06-19 23:10:16,638 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-19 23:10:22,483 - devpinoyLogger -INFO - user email passed into text box
+2020-06-19 23:10:25,957 - devpinoyLogger -INFO - user password passed into text box
+2020-06-19 23:10:28,945 - devpinoyLogger -INFO - log in button clicked
+2020-06-19 23:10:41,787 - devpinoyLogger -INFO - Login is successful
+2020-06-19 23:11:24,182 - devpinoyLogger -INFO - App opened
+2020-06-19 23:11:46,573 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-19 23:11:51,723 - devpinoyLogger -INFO - user email passed into text box
+2020-06-19 23:11:55,203 - devpinoyLogger -INFO - user password passed into text box
+2020-06-19 23:11:58,175 - devpinoyLogger -INFO - log in button clicked
+2020-06-19 23:12:41,024 - devpinoyLogger -INFO - App opened
+2020-06-19 23:12:54,834 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-19 23:12:56,835 - devpinoyLogger -INFO - user email passed into text box
+2020-06-19 23:12:58,502 - devpinoyLogger -INFO - user password passed into text box
+2020-06-19 23:12:59,666 - devpinoyLogger -INFO - log in button clicked
+2020-06-19 23:13:04,793 - devpinoyLogger -INFO - Menu icon clicked
+2020-06-19 23:13:10,068 - devpinoyLogger -INFO - Skip successful
+2020-06-19 23:13:11,282 - devpinoyLogger -INFO - Connections icon clicked
+2020-06-19 23:13:13,256 - devpinoyLogger -INFO - Payer Button clicked
+2020-06-19 23:13:26,969 - devpinoyLogger -INFO - Add Payer Button clicked
+2020-06-19 23:13:28,418 - devpinoyLogger -INFO - Edifecs Payer clicked
+2020-06-19 23:13:29,873 - devpinoyLogger -INFO - Connect button clicked
+2020-06-19 23:13:31,670 - devpinoyLogger -INFO - Confirm  Connect button clicked
+2020-06-19 23:14:25,062 - devpinoyLogger -INFO - App opened
+2020-06-19 23:14:37,335 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-19 23:14:41,498 - devpinoyLogger -INFO - user email passed into text box
+2020-06-19 23:14:44,383 - devpinoyLogger -INFO - user password passed into text box
+2020-06-19 23:14:47,474 - devpinoyLogger -INFO - log in button clicked
+2020-06-19 23:14:55,690 - devpinoyLogger -INFO - Login is successful
+2020-06-19 23:15:06,706 - devpinoyLogger -INFO - Timeline clicked
+2020-06-19 23:16:15,989 - devpinoyLogger -INFO - App opened
+2020-06-19 23:16:33,450 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-19 23:16:35,407 - devpinoyLogger -INFO - user email passed into text box
+2020-06-19 23:16:36,615 - devpinoyLogger -INFO - user password passed into text box
+2020-06-19 23:16:37,883 - devpinoyLogger -INFO - log in button clicked
+2020-06-19 23:16:45,468 - devpinoyLogger -INFO - Menu icon clicked
+2020-06-19 23:16:46,818 - devpinoyLogger -INFO - skippeed successful
+2020-06-19 23:16:48,419 - devpinoyLogger -INFO - Virtual Assistance Clicked
+2020-06-19 23:16:57,219 - devpinoyLogger -INFO - Enter text successful
+2020-06-19 23:16:58,834 - devpinoyLogger -INFO - Send key clicked
+2020-06-19 23:29:15,293 - devpinoyLogger -INFO - App opened
+2020-06-19 23:29:38,659 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-19 23:29:40,665 - devpinoyLogger -INFO - user email passed into text box
+2020-06-19 23:29:41,965 - devpinoyLogger -INFO - user password passed into text box
+2020-06-19 23:29:43,170 - devpinoyLogger -INFO - log in button clicked
+2020-06-19 23:29:50,392 - devpinoyLogger -INFO - Menu icon clicked
+2020-06-19 23:31:01,497 - devpinoyLogger -INFO - App opened
+2020-06-19 23:31:23,799 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-19 23:31:29,510 - devpinoyLogger -INFO - user email passed into text box
+2020-06-19 23:31:33,259 - devpinoyLogger -INFO - user password passed into text box
+2020-06-19 23:31:35,975 - devpinoyLogger -INFO - log in button clicked
+2020-06-19 23:31:41,943 - devpinoyLogger -INFO - Menu icon clicked
+2020-06-19 23:32:49,739 - devpinoyLogger -INFO - App opened
+2020-06-19 23:33:11,686 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-19 23:33:15,116 - devpinoyLogger -INFO - user email passed into text box
+2020-06-19 23:33:18,554 - devpinoyLogger -INFO - user password passed into text box
+2020-06-19 23:33:21,099 - devpinoyLogger -INFO - log in button clicked
+2020-06-19 23:33:21,100 - devpinoyLogger -INFO - Login is successful
+2020-06-19 23:34:02,414 - devpinoyLogger -INFO - App opened
+2020-06-19 23:34:18,107 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-19 23:34:21,036 - devpinoyLogger -INFO - user email passed into text box
+2020-06-19 23:34:22,698 - devpinoyLogger -INFO - user password passed into text box
+2020-06-19 23:34:23,941 - devpinoyLogger -INFO - log in button clicked
+2020-06-19 23:34:44,346 - devpinoyLogger -INFO - Login is successful
+2020-06-19 23:35:32,042 - devpinoyLogger -INFO - App opened
+2020-06-19 23:35:48,611 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-19 23:35:50,558 - devpinoyLogger -INFO - user email passed into text box
+2020-06-19 23:35:52,216 - devpinoyLogger -INFO - user password passed into text box
+2020-06-19 23:35:53,582 - devpinoyLogger -INFO - log in button clicked
+2020-06-19 23:36:35,416 - devpinoyLogger -INFO - App opened
+2020-06-19 23:36:54,665 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-19 23:36:58,086 - devpinoyLogger -INFO - user email passed into text box
+2020-06-19 23:37:03,595 - devpinoyLogger -INFO - user password passed into text box
+2020-06-19 23:37:06,698 - devpinoyLogger -INFO - log in button clicked
+2020-06-19 23:37:15,630 - devpinoyLogger -INFO - Menu icon clicked
+2020-06-19 23:37:17,414 - devpinoyLogger -INFO - Skip successful
+2020-06-19 23:37:20,481 - devpinoyLogger -INFO - Connections icon clicked
+2020-06-19 23:37:20,988 - devpinoyLogger -INFO - Payer Button clicked
+2020-06-19 23:37:26,128 - devpinoyLogger -INFO - Add Payer Button clicked
+2020-06-19 23:37:27,461 - devpinoyLogger -INFO - Edifecs Payer clicked
+2020-06-19 23:37:28,842 - devpinoyLogger -INFO - Connect button clicked
+2020-06-19 23:37:31,049 - devpinoyLogger -INFO - Confirm  Connect button clicked
+2020-06-19 23:38:23,093 - devpinoyLogger -INFO - App opened
+2020-06-19 23:38:40,153 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-19 23:38:42,618 - devpinoyLogger -INFO - user email passed into text box
+2020-06-19 23:38:43,849 - devpinoyLogger -INFO - user password passed into text box
+2020-06-19 23:38:45,003 - devpinoyLogger -INFO - log in button clicked
+2020-06-19 23:38:55,388 - devpinoyLogger -INFO - Login is successful
+2020-06-19 23:39:05,885 - devpinoyLogger -INFO - Timeline clicked
+2020-06-19 23:39:22,405 - devpinoyLogger -INFO - Skip button clicked
+2020-06-19 23:39:23,512 - devpinoyLogger -INFO - Health history clicked
+2020-06-19 23:39:28,118 - devpinoyLogger -INFO - Skip button clicked
+2020-06-19 23:39:29,798 - devpinoyLogger -INFO - Claims drop down button clicked
+2020-06-19 23:39:30,748 - devpinoyLogger -INFO - View Claims is clicked
+2020-06-19 23:40:19,141 - devpinoyLogger -INFO - App opened
+2020-06-19 23:40:37,776 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-19 23:40:41,064 - devpinoyLogger -INFO - user email passed into text box
+2020-06-19 23:40:44,554 - devpinoyLogger -INFO - user password passed into text box
+2020-06-19 23:40:47,522 - devpinoyLogger -INFO - log in button clicked
+2020-06-19 23:40:55,168 - devpinoyLogger -INFO - Menu icon clicked
+2020-06-19 23:40:57,477 - devpinoyLogger -INFO - skippeed successful
+2020-06-19 23:40:58,744 - devpinoyLogger -INFO - Virtual Assistance Clicked
+2020-06-19 23:41:05,882 - devpinoyLogger -INFO - Enter text successful
+2020-06-19 23:41:07,302 - devpinoyLogger -INFO - Send key clicked
+2020-06-19 23:42:07,071 - devpinoyLogger -INFO - App opened
+2020-06-19 23:42:31,121 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-19 23:42:33,212 - devpinoyLogger -INFO - user email passed into text box
+2020-06-19 23:42:35,023 - devpinoyLogger -INFO - user password passed into text box
+2020-06-19 23:42:36,188 - devpinoyLogger -INFO - log in button clicked
+2020-06-19 23:42:42,865 - devpinoyLogger -INFO - Menu icon clicked
+2020-06-19 23:42:44,815 - devpinoyLogger -INFO - skip successful
+2020-06-19 23:42:46,233 - devpinoyLogger -INFO - Connections icon clicked
+2020-06-19 23:42:48,511 - devpinoyLogger -INFO - Provider button clicked
+2020-06-19 23:43:05,160 - devpinoyLogger -INFO - icon clicked to see lists of providers
+2020-06-19 23:43:05,977 - devpinoyLogger -INFO - click on a provider
+2020-06-19 23:43:07,400 - devpinoyLogger -INFO - connect to a provider
+2020-06-19 23:43:09,157 - devpinoyLogger -INFO -  confirmation to connect to a provider
+2020-06-19 23:43:54,374 - devpinoyLogger -INFO - App opened
+2020-06-19 23:44:17,571 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-19 23:44:19,760 - devpinoyLogger -INFO - user email passed into text box
+2020-06-19 23:44:21,100 - devpinoyLogger -INFO - user password passed into text box
+2020-06-19 23:44:22,320 - devpinoyLogger -INFO - log in button clicked
+2020-06-19 23:48:25,814 - devpinoyLogger -INFO - App opened
+2020-06-19 23:48:42,667 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-19 23:48:46,387 - devpinoyLogger -INFO - user email passed into text box
+2020-06-19 23:48:51,915 - devpinoyLogger -INFO - user password passed into text box
+2020-06-19 23:48:55,044 - devpinoyLogger -INFO - log in button clicked
+2020-06-19 23:49:06,563 - devpinoyLogger -INFO - Login is successful
+2020-06-19 23:49:17,056 - devpinoyLogger -INFO - Timeline clicked
+2020-06-19 23:49:32,207 - devpinoyLogger -INFO - Skip button clicked
+2020-06-19 23:49:33,320 - devpinoyLogger -INFO - Health history clicked
+2020-06-19 23:49:37,768 - devpinoyLogger -INFO - Skip button clicked
+2020-06-19 23:49:39,184 - devpinoyLogger -INFO - Claims drop down button clicked
+2020-06-19 23:49:40,130 - devpinoyLogger -INFO - View Claims is clicked
+2020-06-19 23:50:21,501 - devpinoyLogger -INFO - App opened
+2020-06-19 23:50:45,150 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-19 23:50:47,064 - devpinoyLogger -INFO - user email passed into text box
+2020-06-19 23:50:48,227 - devpinoyLogger -INFO - user password passed into text box
+2020-06-19 23:50:49,381 - devpinoyLogger -INFO - log in button clicked
+2020-06-19 23:50:57,570 - devpinoyLogger -INFO - Menu icon clicked
+2020-06-19 23:50:59,663 - devpinoyLogger -INFO - skippeed successful
+2020-06-19 23:51:00,896 - devpinoyLogger -INFO - Virtual Assistance Clicked
+2020-06-19 23:51:07,435 - devpinoyLogger -INFO - Enter text successful
+2020-06-19 23:51:08,511 - devpinoyLogger -INFO - Send key clicked
+2020-06-20 11:46:22,010 - devpinoyLogger -INFO - App opened
+2020-06-20 11:46:39,217 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-20 11:46:42,009 - devpinoyLogger -INFO - user email passed into text box
+2020-06-20 11:46:44,737 - devpinoyLogger -INFO - user password passed into text box
+2020-06-20 11:46:47,765 - devpinoyLogger -INFO - log in button clicked
+2020-06-20 11:46:53,647 - devpinoyLogger -INFO - Menu icon clicked
+2020-06-20 11:46:55,847 - devpinoyLogger -INFO - skip successful
+2020-06-20 11:46:58,857 - devpinoyLogger -INFO - Connections icon clicked
+2020-06-20 11:46:59,436 - devpinoyLogger -INFO - Provider button clicked
+2020-06-20 11:47:03,686 - devpinoyLogger -INFO - icon clicked to see lists of providers
+2020-06-20 11:47:04,457 - devpinoyLogger -INFO - click on a provider
+2020-06-20 11:47:05,755 - devpinoyLogger -INFO - connect to a provider
+2020-06-20 11:47:07,492 - devpinoyLogger -INFO -  confirmation to connect to a provider
+2020-06-20 11:47:59,912 - devpinoyLogger -INFO - App opened
+2020-06-20 11:48:12,278 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-20 11:48:16,079 - devpinoyLogger -INFO - user email passed into text box
+2020-06-20 11:48:19,059 - devpinoyLogger -INFO - user password passed into text box
+2020-06-20 11:48:22,171 - devpinoyLogger -INFO - log in button clicked
+2020-06-20 11:48:28,511 - devpinoyLogger -INFO - skipped  successful
+2020-06-20 11:48:33,919 - devpinoyLogger -INFO - Menu icon clicked
+2020-06-20 11:48:35,992 - devpinoyLogger -INFO - Share clicked
+2020-06-20 11:48:40,932 - devpinoyLogger -INFO - Add to contact button clicked
+2020-06-20 11:48:42,428 - devpinoyLogger -INFO - Yes, I understand button clicked
+2020-06-20 11:49:27,664 - devpinoyLogger -INFO - App opened
+2020-06-20 11:49:41,495 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-20 11:49:44,261 - devpinoyLogger -INFO - user email passed into text box
+2020-06-20 11:49:47,862 - devpinoyLogger -INFO - user password passed into text box
+2020-06-20 11:49:50,757 - devpinoyLogger -INFO - log in button clicked
+2020-06-20 11:49:50,757 - devpinoyLogger -INFO - Login is successful
+2020-06-20 11:50:39,665 - devpinoyLogger -INFO - App opened
+2020-06-20 11:50:56,354 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-20 11:50:59,715 - devpinoyLogger -INFO - user email passed into text box
+2020-06-20 11:51:03,130 - devpinoyLogger -INFO - user password passed into text box
+2020-06-20 11:51:05,889 - devpinoyLogger -INFO - log in button clicked
+2020-06-20 11:51:13,778 - devpinoyLogger -INFO - Login is successful
+2020-06-20 11:51:59,549 - devpinoyLogger -INFO - App opened
+2020-06-20 11:52:14,704 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-20 11:52:20,337 - devpinoyLogger -INFO - user email passed into text box
+2020-06-20 11:52:23,827 - devpinoyLogger -INFO - user password passed into text box
+2020-06-20 11:52:26,808 - devpinoyLogger -INFO - log in button clicked
+2020-06-20 11:53:13,132 - devpinoyLogger -INFO - App opened
+2020-06-20 11:53:28,646 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-20 11:53:34,862 - devpinoyLogger -INFO - user email passed into text box
+2020-06-20 11:53:38,828 - devpinoyLogger -INFO - user password passed into text box
+2020-06-20 11:53:41,337 - devpinoyLogger -INFO - log in button clicked
+2020-06-20 11:53:49,953 - devpinoyLogger -INFO - Menu icon clicked
+2020-06-20 11:53:52,104 - devpinoyLogger -INFO - Skip successful
+2020-06-20 11:53:53,365 - devpinoyLogger -INFO - Connections icon clicked
+2020-06-20 11:53:55,512 - devpinoyLogger -INFO - Payer Button clicked
+2020-06-20 11:53:58,914 - devpinoyLogger -INFO - Add Payer Button clicked
+2020-06-20 11:54:00,210 - devpinoyLogger -INFO - Edifecs Payer clicked
+2020-06-20 11:54:01,561 - devpinoyLogger -INFO - Connect button clicked
+2020-06-20 11:54:03,361 - devpinoyLogger -INFO - Confirm  Connect button clicked
+2020-06-20 11:54:57,050 - devpinoyLogger -INFO - App opened
+2020-06-20 11:55:08,859 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-20 11:55:10,818 - devpinoyLogger -INFO - user email passed into text box
+2020-06-20 11:55:13,313 - devpinoyLogger -INFO - user password passed into text box
+2020-06-20 11:55:16,409 - devpinoyLogger -INFO - log in button clicked
+2020-06-20 11:55:25,931 - devpinoyLogger -INFO - Login is successful
+2020-06-20 11:55:36,757 - devpinoyLogger -INFO - Timeline clicked
+2020-06-20 11:55:42,585 - devpinoyLogger -INFO - Skip button clicked
+2020-06-20 11:55:43,729 - devpinoyLogger -INFO - Health history clicked
+2020-06-20 11:55:48,178 - devpinoyLogger -INFO - Skip button clicked
+2020-06-20 11:55:49,694 - devpinoyLogger -INFO - Claims drop down button clicked
+2020-06-20 11:55:50,655 - devpinoyLogger -INFO - View Claims is clicked
+2020-06-20 11:56:35,724 - devpinoyLogger -INFO - App opened
+2020-06-20 11:56:49,562 - devpinoyLogger -INFO - I already have an account clicked
+2020-06-20 11:56:54,078 - devpinoyLogger -INFO - user email passed into text box
+2020-06-20 11:56:55,310 - devpinoyLogger -INFO - user password passed into text box
+2020-06-20 11:56:56,521 - devpinoyLogger -INFO - log in button clicked
+2020-06-20 11:57:02,367 - devpinoyLogger -INFO - Menu icon clicked
+2020-06-20 11:57:05,522 - devpinoyLogger -INFO - skippeed successful
+2020-06-20 11:57:06,716 - devpinoyLogger -INFO - Virtual Assistance Clicked
+2020-06-20 11:57:17,648 - devpinoyLogger -INFO - Enter text successful
+2020-06-20 11:57:18,754 - devpinoyLogger -INFO - Send key clicked

@@ -18,10 +18,10 @@ import io.appium.java_client.MobileElement;
 public class loginTest extends TestBase {
 
 	String letsGetStarted_XPATH = "//*[@text=concat('Let', \"'\", 's Get Started')]";
-
 	String letsGetStarted2_XPATH = "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.view.ViewGroup/android.view.ViewGroup[1]/android.view.ViewGroup/android.widget.TextView";
 	String letsGetStarted3_XPATH = "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.view.ViewGroup/android.view.ViewGroup[1]/android.view.ViewGroup/android.widget.TextView";
 	String letsGetStartedText = "Let's Get Started";
+	
 	String P_login_XPATH = "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.view.ViewGroup/android.widget.TextView[3]";
 	String P_email_XPATH = "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup[2]/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.view.ViewGroup/android.view.ViewGroup[1]/android.widget.EditText";
 	String email_XPATH = "//android.widget.EditText[@text='Email']";
@@ -98,14 +98,21 @@ public class loginTest extends TestBase {
 	String yesUnderstandBtn_XPATH = "//android.widget.TextView[@text='Yes, I understand']";
 
 	// #Timeline
+	String timeline1_XPATH = "//android.widget.Button[@content-desc=\"Timeline, tab, 2 of 2\"]/android.widget.TextView";
 	String timeline_XPATH = "//android.widget.TextView[@text='Timeline']";
 	String skip_XPATH = "//android.widget.TextView[@text='Skip']";
-	String HealthHistory2017_XPATH = "//android.widget.TextView[@text='2017']";
+	String skip_XPATH2 = "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[4]/android.widget.TextView[2]";
+	String HealthHistory2016_XPATH = "//android.widget.TextView[@text='']";
+	String Health2History2016_XPATH = "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[1]/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[2]/android.widget.ScrollView/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup[1]/android.view.ViewGroup/android.widget.TextView[2]";
 	String healthHistory_XPATH = "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[1]/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[2]/android.widget.ScrollView/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup[1]/android.view.ViewGroup/android.widget.TextView[1]";
-	String skipTimeline_XPATH = "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[4]/android.widget.TextView[2]";
+	String skipTimeline_XPATH = "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[2]/android.widget.TextView[2]";
+    String skipTimline2_XPATH = "//android.widget.TextView[@TEXT='Skip']";
+    String skipTimeline3_XPATH = "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[4]/android.widget.TextView[2]";
 
 	String claimsDropDown_XPATH = "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[1]/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup[2]/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup[4]/android.view.ViewGroup";
-	String viewClaims_XPATH = "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[1]/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup[3]/android.view.ViewGroup[2]/android.view.ViewGroup/android.view.ViewGroup[6]/android.view.ViewGroup";
+	String claimsDropDown2_XPATH = "//android.widget.TextView[@text='']";
+	String viewClaims_XPATH = "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[1]/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup[2]/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup[3]/android.view.ViewGroup[2]/android.view.ViewGroup/android.view.ViewGroup[6]/android.view.ViewGroup/android.widget.TextView";
+	String viewClaims2_XPATH = "//android.widget.TextView[@text='View']";
 	String margaret_XPATH = "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[1]/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.view.ViewGroup/android.view.ViewGroup[1]/android.view.ViewGroup/android.view.ViewGroup[1]";
 
 	// #VirtualAssistance
@@ -140,7 +147,7 @@ public class loginTest extends TestBase {
 
 	@Rule
 	public TestWatcher watcher = Factory.createWatcher();
-
+//
 	@Test
 	public void InvalidLoginTest() throws IOException, InterruptedException {
 
@@ -164,7 +171,7 @@ public class loginTest extends TestBase {
 		log.info("log in button clicked");
 
 	}
-
+//
 	@Test
 	public void LoginTest() throws IOException, InterruptedException {
 
@@ -217,9 +224,9 @@ public class loginTest extends TestBase {
 		driver.findElement(By.xpath(loginBtn2_XPATH)).click();
 		log.info("log in button clicked");
 
-//		driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
-//		driver.findElement(By.xpath(skipTour_XPATH)).click();
-//		log.info("Login is successful");
+		driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
+		driver.findElement(By.xpath(skipTimeline_XPATH)).click();
+		log.info("Login is successful");
 
 		Thread.sleep(10000);
 		driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
@@ -227,7 +234,7 @@ public class loginTest extends TestBase {
 		log.info("Timeline clicked");
 
 		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
-		driver.findElement(By.xpath(skipTimeline_XPATH)).click();
+		driver.findElement(By.xpath(skip_XPATH2)).click();
 		log.info("Skip button clicked");
 
 		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
@@ -236,17 +243,17 @@ public class loginTest extends TestBase {
 		log.info("Health history clicked");
 
 		driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
-		driver.findElement(By.xpath(skipTimeline_XPATH)).click();
+		driver.findElement(By.xpath(skipTimeline3_XPATH)).click();
 		log.info("Skip button clicked");
 
 		driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
 		driver.findElement(By.xpath(claimsDropDown_XPATH)).click();
 		log.info("Claims drop down button clicked");
 
-		driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
-		// driver.findElement(By.xpath(viewClaims_XPATH)).click();
-		driver.findElement(By.xpath("//android.widget.TextView[@text='View']")).click();
-		log.info("View Claims is clicked");
+	driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
+		 driver.findElement(By.xpath(viewClaims_XPATH)).click();
+		//driver.findElement(By.xpath("//android.widget.TextView[@text='View']")).click();
+	log.info("View Claims is clicked");
 
 //		driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
 //		driver.findElement(By.xpath(margaret_XPATH)).isDisplayed();
@@ -291,6 +298,10 @@ public class loginTest extends TestBase {
 		driver.findElement(By.xpath(menuBtn_XPATH)).click();
 		log.info("Menu icon clicked");
 
+		driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
+		driver.findElement(By.xpath(skipTimeline_XPATH)).click();
+		log.info("Skip successful");
+		
 		driver.manage().timeouts().implicitlyWait(40, TimeUnit.SECONDS);
 		driver.findElement(By.xpath(connections_XPATH)).click();
 		log.info("Connections icon clicked");
@@ -316,7 +327,7 @@ public class loginTest extends TestBase {
 		log.info("Confirm  Connect button clicked");
 
 	}
-
+//
 	@Test
 	public void shareConnection() throws InterruptedException, IOException {
 
@@ -338,6 +349,10 @@ public class loginTest extends TestBase {
 		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
 		driver.findElement(By.xpath(loginBtn2_XPATH)).click();
 		log.info("log in button clicked");
+		
+		driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
+		driver.findElement(By.xpath(skipTimeline_XPATH)).click();
+		log.info("skipped  successful");
 
 //		driver.manage().timeouts().implicitlyWait(60, TimeUnit.SECONDS);
 //		driver.findElement(By.xpath(skipTour_XPATH)).click();
@@ -347,7 +362,7 @@ public class loginTest extends TestBase {
 		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
 		driver.findElement(By.xpath(menuBtn_XPATH)).click();
 		log.info("Menu icon clicked");
-
+		
 		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
 		driver.findElement(By.xpath(ShareBtn_XPATH)).click();
 		log.info("Share clicked");
@@ -364,7 +379,7 @@ public class loginTest extends TestBase {
 		driver.findElement(By.xpath(yesUnderstandBtn_XPATH)).click();
 		log.info("Yes, I understand button clicked");
 	}
-
+//
 	@Test
 	public void VirtualAssistance() throws IOException, InterruptedException {
 
@@ -396,6 +411,10 @@ public class loginTest extends TestBase {
 		driver.findElement(By.xpath(menuBtn_XPATH)).click();
 		log.info("Menu icon clicked");
 
+		driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
+		driver.findElement(By.xpath(skipTimeline_XPATH)).click();
+		log.info("skippeed successful");
+		
 		driver.manage().timeouts().implicitlyWait(60, TimeUnit.SECONDS);
 		driver.findElement(By.xpath(virtualAssistant_XPATH)).click();
 		log.info("Virtual Assistance Clicked");
@@ -431,39 +450,39 @@ public class loginTest extends TestBase {
 //		String actualString2 = driver.findElement(By.xpath(labReport_XPATH)).getText();
 //		assertTrue(actualString2.contains(labReport_TEXT));
 	}
+////
+	@Test
+	public void Dashboard() throws IOException, InterruptedException {
 
-//	@Test
-//	public void Dashboard() throws IOException, InterruptedException {
-//
-//		EnhancedAndroidDriver<MobileElement> driver = Capabilities();
-//		driver.manage().timeouts().implicitlyWait(15, TimeUnit.SECONDS);
-//
-//		log.info("App opened");
-//		driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
-//		driver.findElement(By.xpath(P_login_XPATH)).click();
-//		log.info("I already have an account clicked");
-//
-//		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
-//		driver.findElement(By.xpath(P_email_XPATH)).sendKeys(email_TEXT);
-//		log.info("user email passed into text box");
-//
-//		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
-//		driver.findElement(By.xpath(password_XPATH)).sendKeys(password_TEXT);
-//		log.info("user password passed into text box");
-//
-//		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
-//		driver.findElement(By.xpath(loginBtn2_XPATH)).click();
-//		log.info("log in button clicked");
-//
-//		driver.manage().timeouts().implicitlyWait(60, TimeUnit.SECONDS);
-//		driver.findElement(By.xpath(skipTour_XPATH)).click();
-//		log.info("Login is successful");
-//
-////		String actualString = driver.findElement(By.xpath(skip_XPATH"))).getText();
-////		assertTrue(actualString.contains("Skip"));
-//
-//	}
-//
+		EnhancedAndroidDriver<MobileElement> driver = Capabilities();
+		driver.manage().timeouts().implicitlyWait(15, TimeUnit.SECONDS);
+
+		log.info("App opened");
+		driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
+		driver.findElement(By.xpath(P_login_XPATH)).click();
+		log.info("I already have an account clicked");
+
+		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
+		driver.findElement(By.xpath(P_email_XPATH)).sendKeys(email_TEXT);
+		log.info("user email passed into text box");
+
+		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
+		driver.findElement(By.xpath(password_XPATH)).sendKeys(password_TEXT);
+		log.info("user password passed into text box");
+
+		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
+		driver.findElement(By.xpath(loginBtn2_XPATH)).click();
+		log.info("log in button clicked");
+
+		driver.manage().timeouts().implicitlyWait(60, TimeUnit.SECONDS);
+		driver.findElement(By.xpath(skipTour_XPATH)).click();
+		log.info("Login is successful");
+
+//		String actualString = driver.findElement(By.xpath(skip_XPATH"))).getText();
+//		assertTrue(actualString.contains("Skip"));
+
+	}
+////
 	@Test
 	public void ProviderTest() throws IOException, InterruptedException {
 
@@ -494,6 +513,10 @@ public class loginTest extends TestBase {
 		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
 		driver.findElement(By.xpath(menuBtn_XPATH)).click();
 		log.info("Menu icon clicked");
+		
+		driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
+		driver.findElement(By.xpath(skipTimeline_XPATH)).click();
+		log.info("skip successful");
 
 		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
 		driver.findElement(By.xpath(connections_XPATH)).click();
