@@ -1416,3 +1416,17 @@
 2020-06-20 11:57:06,716 [main] INFO devpinoyLogger - Virtual Assistance Clicked
 2020-06-20 11:57:17,648 [main] INFO devpinoyLogger - Enter text successful
 2020-06-20 11:57:18,754 [main] INFO devpinoyLogger - Send key clicked
+2020-06-22 15:02:28,218 [main] INFO devpinoyLogger - App opened
+2020-06-22 15:03:54,543 [main] INFO devpinoyLogger - App opened
+2020-06-22 15:04:08,199 [main] INFO devpinoyLogger - I already have an account clicked
+2020-06-22 15:04:11,150 [main] INFO devpinoyLogger - user email passed into text box
+2020-06-22 15:04:12,399 [main] INFO devpinoyLogger - user password passed into text box
+2020-06-22 15:04:13,653 [main] INFO devpinoyLogger - log in button clicked
+2020-06-22 15:04:22,368 [main] INFO devpinoyLogger - skipped  successful
+2020-06-22 15:04:29,399 [main] INFO devpinoyLogger - Menu icon clicked
+2020-06-22 15:04:29,968 [main] INFO devpinoyLogger - Share clicked
+2020-06-22 15:04:33,792 [main] INFO devpinoyLogger - Add to contact button clicked
+2020-06-22 15:04:34,991 [main] INFO devpinoyLogger - Yes, I understand button clicked
+2020-06-22 15:05:19,085 [main] INFO devpinoyLogger - App opened
+2020-06-22 15:06:38,352 [main] INFO devpinoyLogger - App opened
+2020-06-22 15:09:02,956 [main] INFO devpinoyLogger - App opened
