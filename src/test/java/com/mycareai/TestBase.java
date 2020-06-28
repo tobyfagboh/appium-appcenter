@@ -54,18 +54,18 @@ public class TestBase {
 		PropertyConfigurator.configure(System.getProperty("user.dir") + "/src/log4j.properties");
 
 		File appDir = new File("src");
-		File app = new File(appDir, "/app-release.apk");
+		File app = new File(appDir, "/app-devrelease.apk");
 
 		DesiredCapabilities capabilities = new DesiredCapabilities();
 
 		capabilities.setCapability(MobileCapabilityType.PLATFORM_NAME, "android");
 		capabilities.setCapability(MobileCapabilityType.DEVICE_NAME, "foo");
-		//capabilities.setCapability(MobileCapabilityType.APP, "C:\\Maven\\Maven\\app-release.apk");
+		//capabilities.setCapability(MobileCapabilityType.APP, "C:\\Maven\\Maven\\app-devrelease.apk");
 		capabilities.setCapability(MobileCapabilityType.NEW_COMMAND_TIMEOUT, 2913);
 		capabilities.setCapability(MobileCapabilityType.AUTOMATION_NAME, "uiautomator2");
 		capabilities.setCapability(MobileCapabilityType.APP, app.getAbsolutePath());
-		capabilities.setCapability(AndroidMobileCapabilityType.APP_PACKAGE, "com.mycareai");
-		capabilities.setCapability(AndroidMobileCapabilityType.APP_ACTIVITY, ".MainActivity");
+		capabilities.setCapability(AndroidMobileCapabilityType.APP_PACKAGE, "com.mycareai.dev");
+		capabilities.setCapability(AndroidMobileCapabilityType.APP_ACTIVITY, "com.mycareai.MainActivity");
 		//capabilities.setCapability(MobileCapabilityType.FULL_RESET, true);
 
 		URL url = new URL("http://127.0.0.1:4723/wd/hub");
