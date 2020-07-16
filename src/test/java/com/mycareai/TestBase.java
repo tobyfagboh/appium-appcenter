@@ -54,7 +54,7 @@ public class TestBase {
 		PropertyConfigurator.configure(System.getProperty("user.dir") + "/src/log4j.properties");
 
 		File appDir = new File("src");
-		File app = new File(appDir, "/app-devrelease.apk");
+		File app = new File(appDir, "/app-dev-release.apk");
 
 		DesiredCapabilities capabilities = new DesiredCapabilities();
 
